@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/antd-table-test-task/static/css/main.06dc07f8.chunk.css",
+    "main.js": "/antd-table-test-task/static/js/main.3491bca5.chunk.js",
+    "main.js.map": "/antd-table-test-task/static/js/main.3491bca5.chunk.js.map",
+    "runtime-main.js": "/antd-table-test-task/static/js/runtime-main.5b28de88.js",
+    "runtime-main.js.map": "/antd-table-test-task/static/js/runtime-main.5b28de88.js.map",
+    "static/css/2.97a13557.chunk.css": "/antd-table-test-task/static/css/2.97a13557.chunk.css",
+    "static/js/2.d7f60b34.chunk.js": "/antd-table-test-task/static/js/2.d7f60b34.chunk.js",
+    "static/js/2.d7f60b34.chunk.js.map": "/antd-table-test-task/static/js/2.d7f60b34.chunk.js.map",
+    "static/js/3.0e31e1ef.chunk.js": "/antd-table-test-task/static/js/3.0e31e1ef.chunk.js",
+    "static/js/3.0e31e1ef.chunk.js.map": "/antd-table-test-task/static/js/3.0e31e1ef.chunk.js.map",
+    "index.html": "/antd-table-test-task/index.html",
+    "static/css/2.97a13557.chunk.css.map": "/antd-table-test-task/static/css/2.97a13557.chunk.css.map",
+    "static/css/main.06dc07f8.chunk.css.map": "/antd-table-test-task/static/css/main.06dc07f8.chunk.css.map",
+    "static/js/2.d7f60b34.chunk.js.LICENSE.txt": "/antd-table-test-task/static/js/2.d7f60b34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b28de88.js",
+    "static/css/2.97a13557.chunk.css",
+    "static/js/2.d7f60b34.chunk.js",
+    "static/css/main.06dc07f8.chunk.css",
+    "static/js/main.3491bca5.chunk.js"
+  ]
+}
